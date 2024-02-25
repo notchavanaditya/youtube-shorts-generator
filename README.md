@@ -1,9 +1,10 @@
 # youtube-shorts-generator
 This code is a Python script for generating motivational videos with random backgrounds and audio. It uses the  library to manipulate video and audio files, and the  library to read data from a CSV file.
 
-Motivational Video Generator
+Random Short Video Generator
 ===========================
 
+I was bored on a beautiful summer day so I wrote some code.
 A Python script for generating motivational videos with random backgrounds and audio.
 
 Requirements
