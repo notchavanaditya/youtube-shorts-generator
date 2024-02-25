@@ -32,6 +32,7 @@ Notes
 
 * The script uses the `moviepy` library to manipulate video and audio files.
 * The `csv` library is used to read data from the CSV file.
+* Put your background audios and videos in the folder '/background/audios' & '/background/videos'
 * The script selects a random background video and audio file for each video.
 * The text overlays are added to the video using the `moviepy` library.
 * The script can be customized to use different data sources or video/audio files.
